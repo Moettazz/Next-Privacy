@@ -3,7 +3,7 @@ Politique de confidentialité
 ----------------
 
 ### Introduction
-Notre politique de confidentialité vous aidera à comprendre les informations que nous recueillons chez ecoshare, comment ecoshare les utilise, et quelles options vous avez. ecoshare a développé l'application ecoshare en tant qu'application gratuite. Ce SERVICE est fourni par ecoshare sans frais et est destiné à être utilisé tel quel. Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation des informations conformément à cette politique. Les informations personnelles que nous recueillons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec quiconque, sauf tel que décrit dans cette politique de confidentialité. Les termes utilisés dans cette politique de confidentialité ont la même signification que dans nos conditions d'utilisation, qui sont accessibles sur notre site web, sauf indication contraire dans cette politique de confidentialité.
+Notre politique de confidentialité vous aidera à comprendre les informations que nous recueillons chez Next Consult, comment Next Consult les utilise, et quelles options vous avez. Next Consult a développé l'application Siry en tant qu'application gratuite. Ce SERVICE est fourni par Next Consult sans frais et est destiné à être utilisé tel quel. Si vous choisissez d'utiliser notre service, vous acceptez la collecte et l'utilisation des informations conformément à cette politique. Les informations personnelles que nous recueillons sont utilisées pour fournir et améliorer le service. Nous n'utiliserons ni ne partagerons vos informations avec quiconque, sauf tel que décrit dans cette politique de confidentialité. Les termes utilisés dans cette politique de confidentialité ont la même signification que dans nos conditions d'utilisation, qui sont accessibles sur notre site web, sauf indication contraire dans cette politique de confidentialité.
 
 Collecte et utilisation des informations
 Pour une meilleure expérience lors de l'utilisation de notre service, nous pouvons vous demander de nous fournir certaines informations personnelles, notamment, mais sans s'y limiter, le nom de l'utilisateur, l'adresse e-mail, le sexe, l'emplacement, et des images. Les informations que nous demandons seront conservées par nous et utilisées comme décrit dans cette politique de confidentialité. L'application utilise des services tiers qui peuvent collecter des informations permettant de vous identifier.
@@ -38,4 +38,4 @@ Nous pouvons mettre à jour notre politique de confidentialité de temps à autr
 ### Contactez-nous
 Si vous avez des questions ou des suggestions concernant notre politique de confidentialité, n'hésitez pas à nous contacter.
 Coordonnées de contact :
-Email : ecoshare37@gmail.Com
+Email : CONTACT@NEXT.TN
